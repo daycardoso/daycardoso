@@ -4,7 +4,7 @@
 ### 
 
 - 🔭 Atualmente estou trabalhando com Python | MATLAB 
-- 🌱 Estudando Enhenharia de Automação e Dados
+- 🌱 Estudando Engenharia de Automação e Dados
 - 🧭 Procuro colaborar em inovação tecnológica
 - 📫 Como chegar até mim: <a href="https://www.linkedin.com/in/dayanacardos">**Linkedin**</a> 
 - 😄 Pronouns: Ela/Dela
