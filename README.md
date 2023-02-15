@@ -1,9 +1,9 @@
 <h1 align="center">Oiie 👋, Eu sou a Dayana Cardoso</h1>
-<h3 align="center">Sou apaixonado por tecnologia e inovação</h3>
+<h3 align="center">Sou apaixonada por tecnologia e inovação </h3>
 
 
 - 🔭 Atualmente estou trabalhando com Python | MATLAB 
-- 🌱 Estudando Engenharia de Automação e Dados
+- 🌱 Estudando Engenharia de Automação 🤖 e Dados 📊
 - 🧭 Procuro colaborar em inovação tecnológica
 
 ##
