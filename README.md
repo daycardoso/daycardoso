@@ -3,7 +3,7 @@
 
 
 - 🔭 Atualmente estou trabalhando com Python | MATLAB 
-- 🌱 Estudando Engenharia de Automação 🤖 e Dados 📊
+- 🌱 Estudando Engenharia de Automação 🤖, Dados 📊 e Machine Learning 🖥️
 - 🧭 Procuro colaborar em inovação tecnológica
 
 ##
