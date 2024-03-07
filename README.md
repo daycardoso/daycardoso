@@ -2,7 +2,7 @@
 <h3 align="center">Engenheira de Automação apaixonada por tecnologia e inovação</h3>
 
 - 🔭 Atualmente, atuo na área de **Machine Learning** na empresa [Augen Engenharia S.A.](https://github.com/Augen-Engenharia-S-A), onde trabalho com **LLMs** 🤖, **Análise de Dados 📊** e **Modelos Preditivos**.
-- 🎓 Estou fazendo uma segunda graduação em **Análise e Desenvolvimento de Sistemas** para aprofundar ainda mais meus conhecimentos em desenvolvimento de sistemas.
+- 🎓 Estou fazendo uma segunda graduação em **Análise e Desenvolvimento de Sistemas** no IFRS - Rio Grande para aprofundar ainda mais meus conhecimentos em desenvolvimento de sistemas.
 - 🌱 Além disso, estou me dedicando aos estudos de **TinyML** para expandir meu conhecimento e habilidades, visando aplicá-los em projetos práticos e inovadores.
 
 ##
