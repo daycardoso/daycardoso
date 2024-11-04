@@ -1,7 +1,6 @@
 <h1 align="center">Olá 👋, eu sou a Dayana Cardoso</h1>
 <h3 align="center">Engenheira de Automação apaixonada por tecnologia e inovação</h3>
 
----
 
 - 🔭 Atualmente, sou **Analista de Eletrônica Embarcada** no [IHR - Instituto Hercílio Randon](https://ihr.tec.br/), onde atuo em pesquisa e desenvolvimento de soluções tecnológicas voltadas para a mobilidade.
 - 🎓 Estou cursando uma especialização em **Data Science** no Centro Universitário União das Américas Descomplica.
