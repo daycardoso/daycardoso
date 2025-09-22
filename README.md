@@ -2,7 +2,7 @@
 <h3 align="center">Engenheira de Automação apaixonada por tecnologia e inovação</h3>
 
 
-- 🔭 Atualmente, sou **Analista de Eletrônica Embarcada** no [IHR - Instituto Hercílio Randon](https://ihr.tec.br/), onde atuo em pesquisa e desenvolvimento de soluções tecnológicas voltadas para a mobilidade.
+- 🔭 Atualmente, sou **Analista de Ciência e Tecnologia ** no [IHR - Instituto Hercílio Randon](https://ihr.tec.br/), onde atuo em pesquisa e desenvolvimento de soluções tecnológicas voltadas para a mobilidade.
 - 🎓 Estou cursando uma especialização em **Data Science** no Centro Universitário União das Américas Descomplica.
 - 🌱 Acredito que a tecnologia tem o **potencial de transformar positivamente** nossa sociedade, desde que seja moldada com propósito e responsabilidade, promovendo acesso à educação e informações que podem redefinir nossa interação com o mundo.
 - 👩‍🏫 Estou interessada em explorar projetos **multidisciplinares** que incentivem o ensino de **STEM (Science, Technology, Engineering, and Math)** para crianças e jovens brasileiros, especialmente os de baixa renda, ampliando oportunidades e promovendo inclusão.
